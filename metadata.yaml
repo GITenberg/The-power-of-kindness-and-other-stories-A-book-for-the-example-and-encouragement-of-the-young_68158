@@ -1,0 +1,43 @@
+_repo: The-power-of-kindness-and-other-stories-A-book-for-the-example-and-encouragement-of-the-young_68158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Arthur, Timothy Shay
+    - Herbert, Uncle
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: https://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2022-05-24'
+identifiers:
+  gutenberg: '68158'
+language: en
+pgterms:marc904: https://archive.org/details/powerofkindnesso00arthiala/page/n9/mode/2up
+pgterms:marc905: 20210219224057arthur
+pgterms:marc906: '1877'
+pgterms:marc907: GB
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :T. Nelson and Sons,1877.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Favourite stories for the young
+subjects:
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Honesty -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Envy -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: "The power of kindness and other stories\r\nA book for the example and encouragement\
+  \ of the young"
+url: http://www.gutenberg.org/ebooks/68158
